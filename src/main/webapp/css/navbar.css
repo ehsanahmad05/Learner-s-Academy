@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body{
+	background-image: url("../Images/Schoolimg.jpg");
+	background-size: cover;
+}
+#nav{
+	background-color: olivedrab;
+	padding: 20px;
+	border: 2px solid black;
+	border-radius: 20px 20px 20px 20px;
+	display: flex;
+    justify-content: space-between;
+    font-weight:bold;
+}
+
+a{
+	color: rgb(128, 0, 64);
+	text-decoration: none;
+	
+	
+}
+a:hover{
+	color: yellow
+}
+#h{	
+position: absolute;
+top: 25px;
+right: 70px;
+}

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    background-image: url("../Images/Schoolimg.jpg");
+	background-size: cover;
+}
+#N{ 
+	font-size: 20px;
+	border: 2px solid rgb(0, 0, 0);
+    position: relative;
+	top: 200px;
+	left:80px;
+	width: 250px;
+	height: 200px;
+	padding:80px 20px 30px 80px;
+	background-color: lightblue;
+	
+}
+#submit{
+	
+	color: white;
+	background-color: darkgreen;
+}
+#reset{
+	color: white;
+	background-color: rgb(255, 0, 0);
+}
